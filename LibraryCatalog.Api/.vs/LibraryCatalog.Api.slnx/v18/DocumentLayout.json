@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86622D5B-0CDA-423C-883E-072F83A7FE31}|LibraryCatalog.Api\\LibraryCatalog.Api.csproj|c:\\users\\reale\\source\\repos\\librarycatalog.api\\librarycatalog.api\\librarycatalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{86622D5B-0CDA-423C-883E-072F83A7FE31}|LibraryCatalog.Api\\LibraryCatalog.Api.csproj|solutionrelative:librarycatalog.api\\librarycatalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86622D5B-0CDA-423C-883E-072F83A7FE31}|LibraryCatalog.Api\\LibraryCatalog.Api.csproj|c:\\users\\reale\\source\\repos\\librarycatalog.api\\librarycatalog.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86622D5B-0CDA-423C-883E-072F83A7FE31}|LibraryCatalog.Api\\LibraryCatalog.Api.csproj|solutionrelative:librarycatalog.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86622D5B-0CDA-423C-883E-072F83A7FE31}|LibraryCatalog.Api\\LibraryCatalog.Api.csproj|c:\\users\\reale\\source\\repos\\librarycatalog.api\\librarycatalog.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86622D5B-0CDA-423C-883E-072F83A7FE31}|LibraryCatalog.Api\\LibraryCatalog.Api.csproj|solutionrelative:librarycatalog.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryCatalog.Api.http",
+              "DocumentMoniker": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\LibraryCatalog.Api\\LibraryCatalog.Api.http",
+              "RelativeDocumentMoniker": "LibraryCatalog.Api\\LibraryCatalog.Api.http",
+              "ToolTip": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\LibraryCatalog.Api\\LibraryCatalog.Api.http",
+              "RelativeToolTip": "LibraryCatalog.Api\\LibraryCatalog.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-20T10:12:13.022Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\LibraryCatalog.Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryCatalog.Api\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\LibraryCatalog.Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryCatalog.Api\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:51:00.618Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\LibraryCatalog.Api\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryCatalog.Api\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\LibraryCatalog.Api\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryCatalog.Api\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:48:36.383Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

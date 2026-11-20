@@ -1,0 +1,27 @@
+@LibraryCatalog.Api_HostAddress = https://localhost:7113
+
+### 1. GET All Books (200 OK)
+GET {{LibraryCatalog.Api_HostAddress}}/api/books
+Accept: application/json
+
+### 2. POST Success Scenario (201 Created)
+POST {{LibraryCatalog.Api_HostAddress}}/api/books
+Content-Type: application/json
+
+{
+  "title": "The Pragmatic Programmer",
+  "author": "Andrew Hunt",
+  "isAvailable": true,
+  "yearPublished": 1999
+}
+
+### 3. POST Validation Error Scenario (400 Bad Request)
+POST {{LibraryCatalog.Api_HostAddress}}/api/books
+Content-Type: application/json
+
+{
+  "title": "A",
+  "author": "",
+  "isAvailable": true,
+  "yearPublished": 2050
+}

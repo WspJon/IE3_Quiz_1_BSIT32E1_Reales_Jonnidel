@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86622D5B-0CDA-423C-883E-072F83A7FE31}|LibraryCatalog.Api\\LibraryCatalog.Api.csproj|c:\\users\\reale\\source\\repos\\librarycatalog.api\\librarycatalog.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86622D5B-0CDA-423C-883E-072F83A7FE31}|LibraryCatalog.Api\\LibraryCatalog.Api.csproj|solutionrelative:librarycatalog.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86622D5B-0CDA-423C-883E-072F83A7FE31}|LibraryCatalog.Api\\LibraryCatalog.Api.csproj|c:\\users\\reale\\source\\repos\\librarycatalog.api\\librarycatalog.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86622D5B-0CDA-423C-883E-072F83A7FE31}|LibraryCatalog.Api\\LibraryCatalog.Api.csproj|solutionrelative:librarycatalog.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\LibraryCatalog.Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryCatalog.Api\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\LibraryCatalog.Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryCatalog.Api\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:51:00.618Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\LibraryCatalog.Api\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryCatalog.Api\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\reale\\source\\repos\\LibraryCatalog.Api\\LibraryCatalog.Api\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryCatalog.Api\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:48:36.383Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
